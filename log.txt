@@ -1,0 +1,31 @@
+2023-09-25 20:42:19.577621
+process  Benign
+2023-09-25 21:06:05.274886
+process  Botnet
+2023-09-25 21:06:06.607169
+process  DDoS
+2023-09-25 21:09:00.739338
+process  DoS GoldenEye
+2023-09-25 21:09:14.769811
+process  DoS Hulk
+2023-09-25 21:14:12.080327
+process  DoS Slowhttptest
+2023-09-25 21:14:14.840749
+process  DoS slowloris
+2023-09-25 21:14:19.478461
+process  FTP-Patator
+2023-09-25 21:14:28.546524
+process  Heartbleed
+2023-09-25 21:14:30.097759
+process  Infiltration
+2023-09-25 21:14:32.370648
+process  Port Scan
+2023-09-25 21:17:41.483483
+process  SSH-Patator
+2023-09-25 21:17:49.822470
+process  Web Attack Brute Force
+2023-09-25 21:17:50.635648
+process  Web Attack Sql Injection
+2023-09-25 21:17:50.661114
+process  Web Attack XSS
+2023-09-25 21:17:50.902902
